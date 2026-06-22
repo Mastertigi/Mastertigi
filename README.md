@@ -11,7 +11,7 @@ I architect scalable data ecosystems, build complex ETL/ELT pipelines, and desig
 
 ### 📈 GitHub Stats
 <div align="left">  
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&count_private=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="Thiago Silva GitHub Stats" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mastertigi&show_icons=true&count_private=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="Thiago Silva GitHub Stats" /> 
 </div>
 
 ### 📬 Connect with me
